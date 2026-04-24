@@ -4,3 +4,4 @@ FOG-GRID-GAME is an interactive React-based web game where players navigate a gr
 Players must avoid dynamically generated patterns of enemies.
 The game features a visually stunning neon galaxy theme.
 ## Setup
+To run the game locally, you need Node.js installed.

@@ -5,3 +5,4 @@ Players must avoid dynamically generated patterns of enemies.
 The game features a visually stunning neon galaxy theme.
 ## Setup
 To run the game locally, you need Node.js installed.
+1. Clone the repository.

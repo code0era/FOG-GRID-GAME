@@ -11,3 +11,4 @@ To run the game locally, you need Node.js installed.
 ## Game Rules
 - You start at the top-left corner of the grid.
 - Your goal is to reach the bottom-right corner.
+- Red squares signify enemies that move in specific patterns.

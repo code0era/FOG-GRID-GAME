@@ -15,3 +15,4 @@ To run the game locally, you need Node.js installed.
 - If you hit an enemy, your health decreases.
 - The game is won when you reach the end point alive.
 ## Technology Stack
+- Framework: React 18

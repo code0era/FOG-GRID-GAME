@@ -13,3 +13,4 @@ To run the game locally, you need Node.js installed.
 - Your goal is to reach the bottom-right corner.
 - Red squares signify enemies that move in specific patterns.
 - If you hit an enemy, your health decreases.
+- The game is won when you reach the end point alive.

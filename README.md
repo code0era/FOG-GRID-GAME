@@ -1,4 +1,10 @@
 # FOG-GRID-GAME
+## Screenshots
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7dd4c671-160b-4994-afe4-3a151b077c45" />
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/54437115-a57e-471d-ab3e-48076c49c56a" />
+
 ## Overview
 FOG-GRID-GAME is an interactive React-based web game where players navigate a grid.
 Players must avoid dynamically generated patterns of enemies.

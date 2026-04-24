@@ -17,3 +17,4 @@ To run the game locally, you need Node.js installed.
 ## Technology Stack
 - Framework: React 18
 - Build Tool: Vite
+- Styling: Vanilla CSS

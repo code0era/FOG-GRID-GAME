@@ -16,3 +16,4 @@ To run the game locally, you need Node.js installed.
 - The game is won when you reach the end point alive.
 ## Technology Stack
 - Framework: React 18
+- Build Tool: Vite

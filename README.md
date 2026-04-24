@@ -6,3 +6,4 @@ The game features a visually stunning neon galaxy theme.
 ## Setup
 To run the game locally, you need Node.js installed.
 1. Clone the repository.
+2. Run `npm install` to install dependencies.
